@@ -19,7 +19,7 @@
 - [ ] 2048 :star: 发社群NFT
 
 
-## 入门
+## 入门到精通
 
 **第1讲：三行代码HelloWeb3**：[代码](https://github.com/AmazingAng/WTFSolidity/blob/main/01_HelloWeb3) | [文章](https://github.com/AmazingAng/WTFSolidity/blob/main/01_HelloWeb3/readme.md) | [Mirror](https://mirror.xyz/wtfacademy.eth/WfM30QbSWB2_-9t98g05unTmb_2ZXucOAZMPDa7MX48)
 
